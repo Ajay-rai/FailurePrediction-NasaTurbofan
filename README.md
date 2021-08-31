@@ -31,10 +31,12 @@ Plotted frequency of RUL, Sensors against RUl and Correlation between sensors:
 
 ### Model performance
 LSTM performed the best:
+
 ![alt text](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan/blob/main/img/modelperformance.PNG)
 ![alt text](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan/blob/main/img/comparision.PNG 'LSTM')
 
 ### Feature Importance
+
 ![alt text](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan/blob/main/img/shap.PNG)
 
 ## Conclusion and Future Recommendation
