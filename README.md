@@ -12,13 +12,13 @@
 * **Kaggle Ref1:** https://www.kaggle.com/vinayak123tyagi/damage-propagation-modeling-for-aircraft-engine 
 * **Kaggle Ref2:** https://www.kaggle.com/sanchitapaul/nasa-turbofan-degradation-model
 
-## EDA (EDA.ipnyb)
+## EDA
 Plotted frequency of RUL, Sensors against RUl and Correlation between sensors:
 ![alt text](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan/blob/main/img/RUL.PNG)
 ![alt text](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan/blob/main/img/sensor14.PNG)
 ![alt text](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan/blob/main/img/heatmap.PNG)
 
-## Model Building (model_building.ipnyb)
+## Model Building
 * Split the dataset into 70:30 for train and test respectively based on unique ID so that data from same engine doesn't divide into train and test.
 * Used RMSE and R2 score for evaluation.
 * Used six models:
